@@ -2,7 +2,7 @@ Estudo de caso para a modelagem de dados do Back-end do "site" da Revista FITITE
 
 # Estudo de caso: Revista FITITEL Digital
 
-O ITEL pretende digitalizar a revista da FITITEL para levar a sua feira de inovação a um novo patamar. O prfoco é construir 
+O ITEL pretende digitalizar a revista da FITITEL para levar a sua feira de inovação a um novo patamar. O foco é construir 
 um sistema robusto e veloz, capaz de gerir grandes volumes de dados e garantir respostas imediatas aos utilizadores.
 
 O site da Revista, deverá lidar essencialmente com as **revistas** e os **leitores**. No sistema, cada leitor poderá ter
