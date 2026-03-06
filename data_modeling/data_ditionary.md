@@ -107,7 +107,7 @@ Gere a interação dos leitores com as páginas dos projetos.
 
 ---
 
-### 8.0. Regras de Auditoria (Campos Comuns)
+## 8.0. Regras de Auditoria (Campos Comuns)
 
 Para todas as tabelas, os campos de auditoria seguem este padrão:
 
